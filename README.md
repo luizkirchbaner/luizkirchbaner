@@ -12,21 +12,21 @@ You can click the Preview link to take a look at your changes.
 --->
 
 <h1>
-  Olá, Seja Bem Vindo! 👋 <br> 
-  Meu nome é Luiz, <br> 
-  Sou desenvolvedor de software 👨‍💻 
+  Seja Bem Vindo! 👋 <br> 
+  Luiz Felipe, <br> 
+  Desenvolvedor de software 👨‍💻 
 </h1>
 
 ### Um pequeno resumo sobre mim
 
 <p>
-  ⌛ Atualmente trabalho com desenvolvimento de aplicações web
+  ⌛ Atualmente trabalho com desenvolvimento de aplicações web e mobile
   <br>
   🎯 Focado em construir projetos com Typescript
   <br>
-   🌱 I'm adding other JS frameworks to my belt, but slowly diving deeper into Rust and data-science
+   🌱 Estou estudando e tenho interesse sobre clean code e design patters
   <br>
-  🧩 Outisde of dev work, I love listening to legal podcasts, tinkering with my SuperCoach side, skiing, cycling & helping others begin their dev journeys!
+  🧩 Busco criar side projects para complementar meu conhecimento e ajudar resolver problemas do dia a dia
 </p>
 
 ### Uma pequena lista de tecnologias com as quais gosto de trabalhar
@@ -43,8 +43,8 @@ You can click the Preview link to take a look at your changes.
 }
 ```
 
-#### Entre em contato no [LinkedIn](https://www.linkedin.com/in/luizfelipekirchbaner) se você gostaria de conversar!
-#### Acesse [Meu site](https://luiz-felipe.fly.dev/) para mais informações!
+**Email:** luizkirchbaner.dev@gmail.com  
+**Website:** https://luiz-felipe.fly.dev
 
-### ― Speak soon! 🙌
+### ― Até breve! 🙌
 <br>
