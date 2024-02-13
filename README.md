@@ -13,7 +13,7 @@ You can click the Preview link to take a look at your changes.
 
 <h1>
   Seja Bem Vindo! 👋 <br> 
-  Luiz Felipe, <br> 
+  Meu nome é Luiz Felipe, <br> 
   Desenvolvedor de software 👨‍💻 
 </h1>
 
