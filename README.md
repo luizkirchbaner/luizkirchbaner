@@ -12,38 +12,39 @@ You can click the Preview link to take a look at your changes.
 --->
 
 <h1>
-  Hi there! 👋 <br> 
-  my name is Luiz, <br> 
-  web developer 🤓 
+  Olá, Seja Bem Vindo! 👋 <br> 
+  Meu nome é Luiz, <br> 
+  Sou desenvolvedor de software 👨‍💻 
 </h1>
 
-### A little on myself
+### Um pequeno resumo sobre mim
 
 <p>
-  ⌛ I currently teach web development and build standards-based web apps and demos
+  ⌛ Atualmente trabalho com desenvolvimento de aplicações web
   <br>
-  🎯 I love JS & my main library I work with is React.js (and meta React frameworks)
+  🎯 Focado em construir projetos com Typescript
   <br>
    🌱 I'm adding other JS frameworks to my belt, but slowly diving deeper into Rust and data-science
   <br>
   🧩 Outisde of dev work, I love listening to legal podcasts, tinkering with my SuperCoach side, skiing, cycling & helping others begin their dev journeys!
 </p>
 
-### A little list of technologies that I like working with
+### Uma pequena lista de tecnologias com as quais gosto de trabalhar
 
 ```json
 {
-  "standards": ["html", "css", "ecmascript (javascript|typescript)", "sql", "json", "xml|xhtml", "php"],
-  "frontend": ["react", "next", "vuejs", "svelte"],
-  "backend": ["nodejs", "express"],
-  "databases": ["mysql", "postgresql", "sqlite", "mongodb", "firebase"],
-  "css": ["css modules", "sass", "styled-components", "@stitches", "tailwindcss", "vanilla-extract"],
-  "ui-libraries": ["bootstrap", "mui", "@mantine", "radixui", "daisy-ui", "shadcn-ui"],
-  "prod": ["netlify", "cloudflarepages", "render", "heroku", "firebase-hosting", "vercel", "github-pages", "railway", "mongo-atlas", "shared-servers"],
+  "standards": ["html", "css", "ecmascript (javascript|typescript)", "sql", "json", "php"],
+  "frontend": ["react", "next", "vuejs", "quasar"],
+  "backend": ["nodejs", "express", "laravel"],
+  "databases": ["mysql", "postgresql", "sqlite", "mongodb"],
+  "css": ["css modules", "sass", "styled-components", "tailwindcss"],
+  "ui-libraries": ["mui", "radixui", "shadcn-ui", "next-ui", "bootstrap"],
+  "prod": ["fly.io", "github-pages", "hostinger"],
 }
 ```
 
-#### Contact me on [LinkedIn](https://www.linkedin.com/in/alex-bicknell-855152104/) if you would like to chat!
+#### Entre em contato no [LinkedIn](https://www.linkedin.com/in/luizfelipekirchbaner) se você gostaria de conversar!
+#### Acesse [Meu site](https://luiz-felipe.fly.dev/) para mais informações!
 
 ### ― Speak soon! 🙌
 <br>
