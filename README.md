@@ -16,7 +16,7 @@ You can click the Preview link to take a look at your changes.
 </h1>
 
 ### Um pequeno resumo sobre mim
-<p>👨‍💻 Analista Programador com mais de 4 anos de experiência, formado na faculdade Uniguairacá em Análise e desenvolvimento de sistemas.</p>
+<p>Analista Programador com mais de 4 anos de experiência, formado na faculdade Uniguairacá em Análise e desenvolvimento de sistemas.</p>
 <p>
   ⌛ Atualmente trabalho com desenvolvimento de aplicações web e mobile
   <br>
