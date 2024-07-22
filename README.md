@@ -27,7 +27,7 @@ You can click the Preview link to take a look at your changes.
   🧩 Busco criar side projects para complementar meu conhecimento e ajudar resolver problemas do dia a dia
 </p>
 
-### Uma pequena lista de tecnologias com as quais gosto de trabalhar
+### Uma lista de tecnologias com as quais gosto de trabalhar
 
 ```json
 {
