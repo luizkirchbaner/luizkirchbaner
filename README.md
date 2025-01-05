@@ -16,7 +16,7 @@ You can click the Preview link to take a look at your changes.
 </h1>
 
 ### Um pequeno resumo sobre mim
-<p>Analista Programador com mais de 4 anos de experiência, formado na faculdade Uniguairacá em Análise e desenvolvimento de sistemas.</p>
+<p>Analista Programador com mais de 5 anos de experiência, formado na faculdade Uniguairacá em Análise e desenvolvimento de sistemas.</p>
 <p>
   ⌛ Atualmente trabalho com desenvolvimento de aplicações web e mobile
   <br>
@@ -33,7 +33,7 @@ You can click the Preview link to take a look at your changes.
 {
   "standards": ["html", "css", "ecmascript (javascript|typescript)", "sql", "json", "php"],
   "frontend": ["react", "next", "vuejs", "quasar"],
-  "backend": ["nodejs", "express", "laravel"],
+  "backend": ["nodejs", "express", "adonis", "nestjs", "laravel"],
   "databases": ["mysql", "postgresql", "sqlite", "mongodb"],
   "css": ["css modules", "sass", "styled-components", "tailwindcss"],
   "ui-libraries": ["mui", "radixui", "shadcn-ui", "next-ui", "bootstrap"],
