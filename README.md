@@ -33,7 +33,7 @@ You can click the Preview link to take a look at your changes.
 {
   "standards": ["html", "css", "ecmascript (javascript|typescript)", "sql", "json", "php"],
   "frontend": ["react", "next", "vuejs", "quasar"],
-  "backend": ["nodejs", "express", "adonis", "nestjs", "laravel"],
+  "backend": ["nodejs", "express", "adonis", "nestjs", "docker", "graphql"],
   "databases": ["mysql", "postgresql", "sqlite", "mongodb"],
   "css": ["css modules", "sass", "styled-components", "tailwindcss"],
   "ui-libraries": ["mui", "radixui", "shadcn-ui", "next-ui", "bootstrap"],
