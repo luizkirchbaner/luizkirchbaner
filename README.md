@@ -18,13 +18,11 @@ You can click the Preview link to take a look at your changes.
 ### Um pequeno resumo sobre mim
 <p>Analista Programador com mais de 5 anos de experiência, formado na faculdade Uniguairacá em Análise e desenvolvimento de sistemas.</p>
 <p>
-  ⌛ Atualmente trabalho com desenvolvimento de aplicações web e mobile
+  - Atualmente trabalho com desenvolvimento de aplicações web e mobile
   <br>
-  🎯 Focado em construir projetos com Typescript
+  - Focado em construir projetos com Typescript
   <br>
-   🌱 Estou estudando e tenho interesse sobre clean code e design patters
-  <br>
-  🧩 Busco criar side projects para complementar meu conhecimento e ajudar resolver problemas do dia a dia
+  - Estou estudando e tenho interesse sobre clean code e design patters
 </p>
 
 ### Uma lista de tecnologias com as quais gosto de trabalhar
